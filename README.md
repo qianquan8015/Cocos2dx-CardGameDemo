@@ -44,7 +44,6 @@ STUDY_NOTES.md
 RUN_WIN32_DEBUG.md
 COCOS2DX_INTEGRATION.md
 DELIVERY_CHECKLIST.md
-submission/Classes.zip
 ```
 
 说明：
