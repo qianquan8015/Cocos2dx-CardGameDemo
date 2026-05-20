@@ -44,7 +44,6 @@ STUDY_NOTES.md
 RUN_WIN32_DEBUG.md
 COCOS2DX_INTEGRATION.md
 DELIVERY_CHECKLIST.md
-submission/Classes.zip
 ```
 
 说明：
@@ -73,8 +72,6 @@ CardGameDemo/proj.win32/HelloCpp.sln
 ```
 
 选择 `Debug | Win32` 后编译运行。
-
-注意：为了让 GitHub 仓库更轻量，建议不要提交 `CardGameDemo/cocos2d/` 引擎目录。重新编译时需要先准备 Cocos2d-x 3.17.2，并按 `COCOS2DX_INTEGRATION.md` 补齐工程依赖。如果希望别人克隆后直接编译，可以保留并提交 `CardGameDemo/cocos2d/`，但该目录体积较大。
 
 ## 运行方式
 
